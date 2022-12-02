@@ -1,0 +1,31 @@
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\ООО «Рулевой».exe.config
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\obj\Debug\ООО__Рулевой_.Forms.AutorizationForm.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\obj\Debug\ООО__Рулевой_.Forms.CapthaForm.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\obj\Debug\ООО__Рулевой_.Forms.ViewForm.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\obj\Debug\ООО__Рулевой_.Properties.Resources.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\obj\Debug\ООО «Рулевой».csproj.GenerateResource.Cache
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\ООО «Рулевой».exe
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\ООО «Рулевой».pdb
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\obj\Debug\ООО «Рулевой».exe
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\obj\Debug\ООО «Рулевой».pdb
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\obj\Debug\ООО «Рулевой».csprojResolveAssemblyReference.cache
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\Captha.png
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\icon.ico
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\logo.png
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\ProductsPhoto\A782R4.jpg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\ProductsPhoto\D374E4.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\ProductsPhoto\K830R4.jpg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\ProductsPhoto\K849L6.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\ProductsPhoto\O393R4.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\ProductsPhoto\picture.png
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\ProductsPhoto\S037R9.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\ProductsPhoto\S983R4.jpg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\ProductsPhoto\Z374R3.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\ProductsPhoto\Z469T7.jpg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\ProductsPhoto\Z472R4.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\бд\trade2_order.sql
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\бд\trade2_orderpickuppoint.sql
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\бд\trade2_orderproduct.sql
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\бд\trade2_product.sql
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\бд\trade2_role.sql
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Рулевой»\bin\Debug\Components\бд\trade2_user.sql
